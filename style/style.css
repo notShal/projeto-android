@@ -10,7 +10,7 @@
     src: url(/fontes/idroid.otf) format(opentype);
     font-weight: normal;
 }
-
+    
 :root {
     --cor0: #c5ebd6;
     --cor1: #83e1ad;
@@ -61,8 +61,8 @@ header > p {
     max-width: 500px;
     padding-right: 10px;
     padding-left: 10px;
+    padding-bottom: 50px;
     margin: auto;
-    margin-bottom: 30px;
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.514);
 }
 
